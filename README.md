@@ -7,4 +7,6 @@ A web-app that I am creating that will be able to download music from SoundCloud
 * Given option to download highest quality version of song if found in another platform (you can download a song from Spotify instead of SoundCloud if found in both)
 * Ability to sync downloaded playlists so user does not have to choose new songs to download
 
+Blog for project here: https://dev.to/mileskj
+
 
